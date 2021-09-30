@@ -1,0 +1,12 @@
+env.py
+pandas_assessment.ipynb
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+titanic_df.csv
+iris_df.csv
+iris.csv
+titanic.csv
+telco_churn.csv
+zillow_df.csv
+wrangled_zillow.csv
